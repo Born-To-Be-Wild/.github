@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/180/000000/FFFFFF?text=WILD+HEART" width="200" height="200" style="border-radius:20px"/>
+  <img width="820" height="446" alt="image" src="https://github.com/user-attachments/assets/2697b1a3-5e34-411a-8c22-2f7a2dba6857" />
+
 
   # 야수의 심장 THE BEAST HEART
   
