@@ -5,7 +5,7 @@
 
   # 야수의 심장 THE BEAST HEART
   
-  ### ❝ Wild Heart, Cold Head ❞
+  ### ❝ 가슴은 뜨겁게. 머리는 차갑게. ❞
 
   <br>
 
